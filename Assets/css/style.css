@@ -1,0 +1,20 @@
+.circle {
+    height: 400px;
+    width: 500px;
+    background-color:yellow;
+    border-radius: 50%;
+    text-align: center;
+    line-height:375px;
+    }
+main{
+    display: flex;
+margin-top: 150px;
+justify-content: space-evenly;
+align-items: center;
+
+    }
+
+form{
+    display: flex;
+    flex-direction: column;
+   }
