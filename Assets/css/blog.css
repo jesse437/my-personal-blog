@@ -16,12 +16,14 @@ body{
     margin-right: 20px;
 }
 
-.containerBlog {
+.post-container {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ccc;
 }
-
+.post-container h3{
+    margin-bottom: 0px;
+}
 .post {
     margin-bottom: 20px;
     padding: 10px;
