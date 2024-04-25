@@ -19,7 +19,7 @@ function toggleMode(){
     }
 }
 
-formEl.addEventListener("submit", function (event) {
-    event.preventDefault();
-    window.location.href="blog.html"
-});
+// formEl.addEventListener("submit", function (event) {
+//     event.preventDefault();
+//     window.location.href="blog.html"
+// });

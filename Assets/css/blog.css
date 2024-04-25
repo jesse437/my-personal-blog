@@ -15,15 +15,7 @@ body{
     padding: 0px 10px;
     margin-right: 20px;
 }
-.toggle-img{
-    width: 20px;
-    height: 20px;
-    cursor: pointer;
-}
-.dark-mode{
-    background-color: #333;
-    color: #fff;
-}
+
 .containerBlog {
     margin: 20px;
     padding: 20px;
