@@ -14,7 +14,7 @@ form.addEventListener("submit", function (e) {
   existingPost.push(blogPost);
   localStorage.setItem("posts", JSON.stringify(existingPost));
   console.log("Data loaded");
-  //window.location.href = "blog.html";
+  window.location.href = "blog.html";
 });
 
 document.addEventListener("DOMContentLoaded", function () {
